@@ -1,6 +1,6 @@
 # Stuffs
 
-## 1. PyTender
+## 1. PyBid
 Prepare Bolpatra (PPMO) bid documents of 'Works' category
 
 ## 2. ADBS
